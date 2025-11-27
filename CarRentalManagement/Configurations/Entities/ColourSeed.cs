@@ -27,7 +27,7 @@ namespace CarRentalManagement.Configurations.Entities
                     CreatedBy = "System",
                     UpdatedBy = "System"
                 }
-            );
+             );
         }
     }
 }
